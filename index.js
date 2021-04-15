@@ -18,7 +18,7 @@ const loader = new THREE.GLTFLoader();
 //Cargar Mesh
 loader.load(
 	// resource URL
-	'Candelabro.glb',
+	'https://github.com/sebasnunez/ThreeJSBlender/Candelabro.glb',
 	// called when the resource is loaded
 	function ( gltf ) {
 
